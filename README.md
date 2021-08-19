@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mik-404
-- 👀 I’m interested in Python
+- 👀 I’m interested in Python and Neural Networks, especially conversational Neural Networks
 - 🌱 I’m currently learning Data Science and game creation in Unity
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me/ My Telegram @Mik_404
